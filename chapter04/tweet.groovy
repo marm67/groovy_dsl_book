@@ -2,7 +2,7 @@
 import twitter4j.*
 // personal information
 def twitterId = "kbaurets"
-def password =  "kb1977"
+def password =  ""
 def twitter = new Twitter(twitterId, password)
 
 try {
